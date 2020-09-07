@@ -1,0 +1,4 @@
+this is txt file
+for test read
+and
+write
